@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="teste" src=".github/preview.jpg" width="100%">
+  <img alt="teste" src="tewsted.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Esse é o tal de projeto.
 
 ## 🔖 Layout
 
