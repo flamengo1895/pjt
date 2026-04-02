@@ -12,13 +12,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="projeto devlinks" src="00001.gif">
+  <img alt="projeto devlinks" src="./assets/bg-desktop-light.jpg">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="teste" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
