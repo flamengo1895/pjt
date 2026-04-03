@@ -19,10 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 >>>>>>> c2f08bf71d2a8e5618fec7657a1cba9bb1649c1c
 </p>
 
-<br>
-
 <p align="center">
-<<<<<<< HEAD
   <img alt="teste" src="tewsted.png" width="100%">
 =======
 </p>
