@@ -12,21 +12,16 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img alt="projeto devlinks" src="./assets/bg-desktop-light.jpg">
 =======
   <img alt="projeto devlinks" src="00001.gif">
->>>>>>> c2f08bf71d2a8e5618fec7657a1cba9bb1649c1c
 </p>
 
 <br>
 
 <p align="center">
-<<<<<<< HEAD
+
   <img alt="teste" src="tewsted.png" width="100%">
-=======
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
->>>>>>> c2f08bf71d2a8e5618fec7657a1cba9bb1649c1c
 </p>
 
 ## 🚀 Tecnologias
@@ -39,11 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-<<<<<<< HEAD
+
 Esse é o tal de projeto.
 =======
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
->>>>>>> c2f08bf71d2a8e5618fec7657a1cba9bb1649c1c
 
 ## 🔖 Layout
 
@@ -55,4 +48,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat);
