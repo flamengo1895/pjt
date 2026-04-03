@@ -14,8 +14,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="projeto devlinks" src="./assets/tewsted.jpg">
   <img alt="projeto devlinks" src="./assets/9ac0702a21838c2d9734e5ae55792ba6.gif">
-=======
-  <img alt="projeto devlinks" src="00001.gif">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,13 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-
-## 💻 Projeto
-
-
-Esse é o tal de projeto.
-=======
-
+  
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
