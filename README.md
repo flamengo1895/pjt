@@ -16,7 +16,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="projeto devlinks" src="./assets/9ac0702a21838c2d9734e5ae55792ba6.gif">
 =======
   <img alt="projeto devlinks" src="00001.gif">
->>>>>>> 34331070d27e65eadd854d0d0c2f42ec05fbbd16
 </p>
 
 ## 🚀 Tecnologias
